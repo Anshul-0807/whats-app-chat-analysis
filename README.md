@@ -1,2 +1,2 @@
 # whats-app-chat-analysis
-a streamlit web app
+A streamlit web app that analysis individual or group chat
